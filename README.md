@@ -2,6 +2,8 @@
 
 Bahan : Termux, 2ndline, texnow dll
 
+apabila sebelum nya sudah git clone di termux ketik rm -rf boba7
+
 pkg install git
 
 pkg install php
