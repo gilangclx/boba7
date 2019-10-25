@@ -2,7 +2,7 @@
 
 Bahan : Termux, 2ndline, texnow dll
 
-apabila sebelum nya sudah git clone di termux ketik rm -rf boba7
+apabila sebelum nya sudah git clone di termux ketik rm -rf boba7 kemudian git clone ulang
 
 pkg install git
 
