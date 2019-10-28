@@ -19,3 +19,5 @@ No HP mu : contoh (609) 483-4013
 Auto Recaple to +16094834013
 
 Kode OTP : otp di sms nanti
+
+Claim GoFood, GoRide, Send Gopay Rp 1 - 10 acak
