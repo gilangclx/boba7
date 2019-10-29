@@ -12,7 +12,7 @@ git clone https://github.com/Thaniiaa/boba7
 
 cd boba7
 
-php update.php
+php up.php
 
 No HP mu : contoh (609) 483-4013
 
